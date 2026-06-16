@@ -30,18 +30,3 @@ This project demonstrates strong foundational concepts in C++ development:
 * **Control Flow:** Advanced implementation of `switch-case` statements and `if-else` logic for navigating user inputs and operation execution.
 * **Loops:** Leveraged `do-while` and `for` loops for seamless input validation and game-state iteration.
 * **Randomization:** Uses `rand()` seeded with `srand(time)` to ensure uniquely generated questions every time you play.
-
----
-
-## 💻 How to Run
-
-To run this game locally on your machine, follow these steps:
-
-### Prerequisites
-Make sure you have a C++ compiler installed (like `g++`).
-
-### Installation & Execution
-1. Clone this repository or copy the code into a file named `main.cpp`.
-2. Open your Terminal / Command Prompt and compile the code:
-```bash
-   g++ -o MathGame main.cpp
