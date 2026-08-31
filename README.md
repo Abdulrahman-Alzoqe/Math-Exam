@@ -4,7 +4,7 @@ A fun, interactive, and educational console-based math game built using **C++**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Customizable Quizzes:** Players can choose exactly how many questions they want to tackle per round.
 * **4 Difficulty Levels:** Dynamic number generation tailored to different skill sets:
